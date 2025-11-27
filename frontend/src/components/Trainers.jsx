@@ -2,9 +2,7 @@ import { motion } from "framer-motion";
 
 export default function Trainers() {
   const trainers = [
-    { name: "Arjun Singh", role: "Strength Coach", img: "/images/trainer1.jpg" },
-    { name: "Vikram Rao", role: "Bodybuilding Expert", img: "/images/trainer2.jpg" },
-    { name: "Priya Das", role: "Fitness & Cardio Coach", img: "/images/trainer3.jpg" },
+    { name: "Swarajit Haldar", img: "/images/trainer1.jpg" },
   ];
 
   return (

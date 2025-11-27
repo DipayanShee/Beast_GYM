@@ -2,15 +2,15 @@ import { motion } from "framer-motion";
 
 export default function Transformations() {
   const images = [
-    "/images/trans1.jpg",
-    "/images/trans2.jpg",
-    "/images/trans3.jpg",
+    "/images/trans1.jpeg",
+    "/images/trans2.jpeg",
+    "/images/trans3.jpeg",
   ];
 
   return (
     <section className="bg-black py-20 text-white px-6">
       <h2 className="text-center text-3xl md:text-4xl font-extrabold tracking-wide">
-        REAL <span className="text-red-600">TRANSFORMATIONS</span>
+        OUR <span className="text-red-600">ACHIBMENTS</span>
       </h2>
       <p className="text-center text-gray-400 text-sm md:text-base mt-2">
         Our members who unleashed the beast within.

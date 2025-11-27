@@ -44,14 +44,14 @@ export default function Contact() {
               <p className="text-gray-300 text-sm">
                 Beast Gym
                 <br />
-                XYZ Road, Your Area
+                Budge Budge Trunk , Budge Budge
                 <br />
-                Your City, PIN - 000000
+                Pujali, PIN - 700138
               </p>
               <p className="mt-3 text-gray-300 text-sm">
-                Phone: +91 98765 43210
+                Phone: +91 91237 46370
                 <br />
-                Email: info@beastgym.com
+                WhatsApp: +91 91237 46370
               </p>
             </div>
 

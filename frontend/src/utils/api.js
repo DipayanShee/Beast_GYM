@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL, // dynamic URL
+  baseURL: "https://beast-gym.onrender.com/api"
 });
 
 // attach admin token

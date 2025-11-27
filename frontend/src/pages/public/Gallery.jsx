@@ -2,10 +2,12 @@ import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
 
 const images = [
-  { src: "/images/beast-logo.jpg", caption: "Beast Gym Wall Logo" },
-  { src: "/images/gym-1.jpg", caption: "Strength Training Area" },
-  { src: "/images/gym-2.jpg", caption: "Cardio Zone" },
-  { src: "/images/gym-3.jpg", caption: "Free Weights Section" },
+  { src: "/images/beast-logo.jpeg" },
+  { src: "/images/gym-1.jpeg", },
+  { src: "/images/gym-2.jpeg", },
+  { src: "/images/gym-3.jpeg", },
+  { src: "/images/gym-4.jpeg", },
+  { src: "/images/gym-5.jpeg", },
 ];
 
 export default function Gallery() {

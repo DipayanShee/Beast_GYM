@@ -55,7 +55,6 @@ export default function Plans() {
 
               <ul className="text-left text-sm text-gray-300 mb-6 space-y-2">
                 <li>✔ Gym floor access</li>
-                <li>✔ Locker facility</li>
                 <li>✔ Trainer support</li>
               </ul>
 
